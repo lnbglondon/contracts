@@ -1,7 +1,7 @@
-# ERC-20 Token Contract - Readme 
-This is a smart contract for an ERC-20 token with burn and mint features. The contract has been deployed to the Binance Smart Chain (BSC) at address 0xbf05c4023e735adb912e2cc34c0f391702efec34.
+#ERC-20 Token Contract
+token with burn and mint features. The contract has been deployed to the Binance Smart Chain (BSC) at address 0xbf05c4023e735adb912e2cc34c0f391702efec34.
 
-Features
+##Features
 The ERC-20 token contract at 0xbf05c4023e735adb912e2cc34c0f391702efec34 has the following features:
 
 ERC-20 compatibility
