@@ -1,4 +1,4 @@
-**Readme**
+Readme
 
 This is the code repository for the ERC-20 token contract with burn and mint features. The contract has been deployed to the Binance Smart Chain (BSC) at address 0xbf05c4023e735adb912e2cc34c0f391702efec34.
 
